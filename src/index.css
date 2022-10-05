@@ -46,6 +46,7 @@ body {
 .p-rating {
   color: var(--orange);
 }
+
 @media (min-width: 500px) {
   .wrapper {
     width: 400px;
